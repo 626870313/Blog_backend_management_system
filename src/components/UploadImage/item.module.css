@@ -1,0 +1,27 @@
+.item {
+  margin-bottom: 20px;
+}
+.item .item-content {
+  display: flex;
+  align-items: center;
+}
+.item .item-content .upload-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20px;
+}
+.item .item-content .upload-wrapper .btn-input {
+  margin-top: 10px;
+}
+.item .input {
+  margin-top: 10px;
+}
+.item .action {
+  display: flex;
+  margin-left: 10px;
+}
+.item .action .btn {
+  margin-right: 10px;
+}
+/*# sourceMappingURL=./item.module.css.map */
